@@ -115,3 +115,27 @@ body {
 .watchnow .fa-star {
     color: #F7C531;
 }
+
+.testimonial {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.testimonial h3 {
+    text-align: center;
+}
+
+.testimonial img {
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.testimonial h5 {
+    margin-left: -20px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+.testimonial p {
+    margin-left: -18px;
+}
