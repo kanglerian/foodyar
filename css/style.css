@@ -139,3 +139,63 @@ body {
 .testimonial p {
     margin-left: -18px;
 }
+
+.statistic {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.statistic h4 {
+    font-weight: 800;
+}
+
+.statistic p {
+    font-size: 15px;
+}
+
+.app {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.app h2 {
+    margin-top: 70px;
+    line-height: 50px;
+    color: #272042;
+    font-weight: 700;
+}
+
+.app img {
+    width: 380px;
+}
+
+.app p {
+    font-weight: 400;
+}
+
+.app .img-soc {
+    margin-right: 10px;
+    width: 150px;
+}
+
+.footer {
+    background-color: #ECECEC;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+
+.footer h4 {
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+
+.footer ul li {
+    margin-left: -40px;
+    list-style-type: none;
+}
+
+.footer p {
+    font-size: 14px;
+    margin-top: 50px;
+}
